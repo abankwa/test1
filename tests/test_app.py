@@ -9,3 +9,6 @@ def test_do_one():
 
 def test_do_two():
     assert app.do_two == 2
+
+def test_do_three():
+    assert True
