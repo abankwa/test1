@@ -1,5 +1,5 @@
-import pkg1
-import pkg2
+import src.pkg1
+import src.pkg2
 
 def do_one():
     print("did one")
