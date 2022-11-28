@@ -14,4 +14,7 @@ def test_do_two():
     assert app.do_two() == 2
 
 def test_do_three():
-    assert True
+    assert app.do_three == 3
+
+def test_do_four():
+    assert app.do_four == 4
